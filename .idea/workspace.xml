@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="159" column="34" lean-forward="false" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#880#881#0" expanded="false" />
+                <element signature="e#908#909#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WcgLogAnaylysis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encodings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="description.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/description.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org.buhe.loganalysis.</find>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/interceptor/impl/CrashInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/HeapMemLeakInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/ThreadDumpDeadLockInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/common/ComponentContainer.java" />
+        <option value="$PROJECT_DIR$/src/common/IOHelper.java" />
+        <option value="$PROJECT_DIR$/src/common/Named.java" />
+        <option value="$PROJECT_DIR$/src/core/Log.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/SplitByThreadInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/SplitByTimeInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/Configurable.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/ConfigurableBase.java" />
+        <option value="$PROJECT_DIR$/src/io/impl/NIOLogReader.java" />
+        <option value="$PROJECT_DIR$/src/io/impl/NIOLogWriter.java" />
+        <option value="$PROJECT_DIR$/src/io/impl/OIOLogReader.java" />
+        <option value="$PROJECT_DIR$/src/io/impl/OIOLogWriter.java" />
+        <option value="$PROJECT_DIR$/src/io/LogReader.java" />
+        <option value="$PROJECT_DIR$/src/io/LogWriter.java" />
+        <option value="$PROJECT_DIR$/src/Test/RegexMatches.java" />
+        <option value="$PROJECT_DIR$/src/core/LogAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/common/ENV.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/LogAnalysisInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/NumInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/interceptor/impl/RegularInterceptor.java" />
+        <option value="$PROJECT_DIR$/WcgLogAnaylysis.iml" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis.xml" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1604" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WcgLogAnaylysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/银联/log4j-1.2.17/apache-log4j-1.2.17" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\unionpay\WcgLogAnaylysis" />
+      <recent name="D:\unionpay\WcgLogAnaylysis\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="RegexMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.RegexMatches" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WcgLogAnaylysis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WcgLogAnaylysis.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis/WcgLogAnaylysis.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WcgLogAnaylysis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WcgLogAnaylysis" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RegexMatches" />
+      <item index="2" class="java.lang.String" itemvalue="JAR Application.WcgLogAnaylysis.jar" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JAR Application.WcgLogAnaylysis.jar" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RegexMatches" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1500278530210" duration="3468000" />
+      <workItem from="1500340136740" duration="20075000" />
+      <workItem from="1500425736555" duration="12886000" />
+      <workItem from="1500451393442" duration="6208000" />
+      <workItem from="1500511996855" duration="4893000" />
+      <workItem from="1500598609960" duration="11124000" />
+      <workItem from="1500857558833" duration="16264000" />
+      <workItem from="1500944003963" duration="13884000" />
+      <workItem from="1501030936061" duration="8833000" />
+      <workItem from="1501049627851" duration="1139000" />
+      <workItem from="1501117052764" duration="9504000" />
+      <workItem from="1501139608104" duration="693000" />
+      <workItem from="1501140468616" duration="8018000" />
+      <workItem from="1501203364348" duration="2518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120809000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1604" height="876" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35006973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18264249" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32775453" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35006973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16904145" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/stage/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="347" column="16" lean-forward="false" selection-start-line="347" selection-start-column="16" selection-end-line="347" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/ThreadDumpDeadLockInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/CrashInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/HeapMemLeakInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/common/ComponentContainer.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/impl/NIOLogWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/scene/control/TextInputControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6210">
+          <caret line="349" column="32" lean-forward="false" selection-start-line="349" selection-start-column="32" selection-end-line="349" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#59808#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8296#8297#0" expanded="false" />
+            <element signature="e#8367#8368#0" expanded="false" />
+            <element signature="e#8436#8437#0" expanded="false" />
+            <element signature="e#8504#8505#0" expanded="false" />
+            <element signature="e#8573#8574#0" expanded="false" />
+            <element signature="e#8626#8627#0" expanded="false" />
+            <element signature="e#10144#10145#0" expanded="false" />
+            <element signature="e#10196#10197#0" expanded="false" />
+            <element signature="e#10249#10250#0" expanded="false" />
+            <element signature="e#10295#10296#0" expanded="false" />
+            <element signature="e#11569#11570#0" expanded="false" />
+            <element signature="e#11599#11600#0" expanded="false" />
+            <element signature="e#12451#12452#0" expanded="false" />
+            <element signature="e#12530#12531#0" expanded="false" />
+            <element signature="e#17168#17169#0" expanded="false" />
+            <element signature="e#17213#17214#0" expanded="false" />
+            <element signature="e#17440#17441#0" expanded="false" />
+            <element signature="e#17487#17488#0" expanded="false" />
+            <element signature="e#17738#17739#0" expanded="false" />
+            <element signature="e#17776#17777#0" expanded="false" />
+            <element signature="e#18263#18264#0" expanded="false" />
+            <element signature="e#18306#18307#0" expanded="false" />
+            <element signature="e#25730#25731#0" expanded="false" />
+            <element signature="e#25765#25766#0" expanded="false" />
+            <element signature="e#25933#25934#0" expanded="false" />
+            <element signature="e#25964#25965#0" expanded="false" />
+            <element signature="e#26135#26136#0" expanded="false" />
+            <element signature="e#26171#26172#0" expanded="false" />
+            <element signature="e#26443#26444#0" expanded="false" />
+            <element signature="e#26477#26478#0" expanded="false" />
+            <element signature="e#26737#26738#0" expanded="false" />
+            <element signature="e#26767#26768#0" expanded="false" />
+            <element signature="e#26932#26933#0" expanded="false" />
+            <element signature="e#26967#26968#0" expanded="false" />
+            <element signature="e#30572#30573#0" expanded="false" />
+            <element signature="e#30615#30616#0" expanded="false" />
+            <element signature="e#31452#31453#0" expanded="false" />
+            <element signature="e#31495#31496#0" expanded="false" />
+            <element signature="e#37226#37227#0" expanded="false" />
+            <element signature="e#37300#37301#0" expanded="false" />
+            <element signature="e#39903#39904#0" expanded="false" />
+            <element signature="e#39959#39960#0" expanded="false" />
+            <element signature="e#50374#50375#0" expanded="false" />
+            <element signature="e#50423#50424#0" expanded="false" />
+            <element signature="e#51132#51133#0" expanded="false" />
+            <element signature="e#51184#51185#0" expanded="false" />
+            <element signature="e#51229#51230#0" expanded="false" />
+            <element signature="e#51266#51267#0" expanded="false" />
+            <element signature="e#51314#51315#0" expanded="false" />
+            <element signature="e#51384#51385#0" expanded="false" />
+            <element signature="e#51422#51423#0" expanded="false" />
+            <element signature="e#51469#51470#0" expanded="false" />
+            <element signature="e#56074#56075#0" expanded="false" />
+            <element signature="e#56148#56149#0" expanded="false" />
+            <element signature="e#57216#57217#0" expanded="false" />
+            <element signature="e#57260#57261#0" expanded="false" />
+            <element signature="e#59352#59353#0" expanded="false" />
+            <element signature="e#59416#59417#0" expanded="false" />
+            <element signature="e#59487#59488#0" expanded="false" />
+            <element signature="e#59559#59560#0" expanded="false" />
+            <element signature="e#59610#59611#0" expanded="false" />
+            <element signature="e#59681#59682#0" expanded="false" />
+            <element signature="e#59733#59734#0" expanded="false" />
+            <element signature="e#59797#59798#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/collections/FXCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6187">
+          <caret line="338" column="40" lean-forward="false" selection-start-line="338" selection-start-column="40" selection-end-line="338" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#84580#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9189#9190#0" expanded="false" />
+            <element signature="e#9232#9233#0" expanded="false" />
+            <element signature="e#9449#9450#0" expanded="false" />
+            <element signature="e#9504#9505#0" expanded="false" />
+            <element signature="e#10513#10514#0" expanded="false" />
+            <element signature="e#10566#10567#0" expanded="false" />
+            <element signature="e#11624#11625#0" expanded="false" />
+            <element signature="e#11678#11679#0" expanded="false" />
+            <element signature="e#13412#13413#0" expanded="false" />
+            <element signature="e#13469#13470#0" expanded="false" />
+            <element signature="e#16256#16257#0" expanded="false" />
+            <element signature="e#16300#16301#0" expanded="false" />
+            <element signature="e#16681#16682#0" expanded="false" />
+            <element signature="e#16737#16738#0" expanded="false" />
+            <element signature="e#18861#18862#0" expanded="false" />
+            <element signature="e#18904#18905#0" expanded="false" />
+            <element signature="e#25468#25469#0" expanded="false" />
+            <element signature="e#25512#25513#0" expanded="false" />
+            <element signature="e#25570#25571#0" expanded="false" />
+            <element signature="e#25636#25637#0" expanded="false" />
+            <element signature="e#25694#25695#0" expanded="false" />
+            <element signature="e#25767#25768#0" expanded="false" />
+            <element signature="e#25833#25834#0" expanded="false" />
+            <element signature="e#25877#25878#0" expanded="false" />
+            <element signature="e#25939#25940#0" expanded="false" />
+            <element signature="e#26005#26006#0" expanded="false" />
+            <element signature="e#26065#26066#0" expanded="false" />
+            <element signature="e#26105#26106#0" expanded="false" />
+            <element signature="e#26169#26170#0" expanded="false" />
+            <element signature="e#26210#26211#0" expanded="false" />
+            <element signature="e#26273#26274#0" expanded="false" />
+            <element signature="e#26346#26347#0" expanded="false" />
+            <element signature="e#26409#26410#0" expanded="false" />
+            <element signature="e#26482#26483#0" expanded="false" />
+            <element signature="e#27005#27006#0" expanded="false" />
+            <element signature="e#27037#27038#0" expanded="false" />
+            <element signature="e#27100#27101#0" expanded="false" />
+            <element signature="e#27136#27137#0" expanded="false" />
+            <element signature="e#27234#27235#0" expanded="false" />
+            <element signature="e#27273#27274#0" expanded="false" />
+            <element signature="e#27346#27347#0" expanded="false" />
+            <element signature="e#27388#27389#0" expanded="false" />
+            <element signature="e#27441#27442#0" expanded="false" />
+            <element signature="e#27502#27503#0" expanded="false" />
+            <element signature="e#27560#27561#0" expanded="false" />
+            <element signature="e#27593#27594#0" expanded="false" />
+            <element signature="e#27655#27656#0" expanded="false" />
+            <element signature="e#27688#27689#0" expanded="false" />
+            <element signature="e#27794#27795#0" expanded="false" />
+            <element signature="e#27833#27834#0" expanded="false" />
+            <element signature="e#28386#28387#0" expanded="false" />
+            <element signature="e#28451#28452#0" expanded="false" />
+            <element signature="e#28517#28518#0" expanded="false" />
+            <element signature="e#28582#28583#0" expanded="false" />
+            <element signature="e#28662#28663#0" expanded="false" />
+            <element signature="e#28727#28728#0" expanded="false" />
+            <element signature="e#28796#28797#0" expanded="false" />
+            <element signature="e#28861#28862#0" expanded="false" />
+            <element signature="e#28930#28931#0" expanded="false" />
+            <element signature="e#28995#28996#0" expanded="false" />
+            <element signature="e#29069#29070#0" expanded="false" />
+            <element signature="e#29134#29135#0" expanded="false" />
+            <element signature="e#29546#29547#0" expanded="false" />
+            <element signature="e#29611#29612#0" expanded="false" />
+            <element signature="e#29677#29678#0" expanded="false" />
+            <element signature="e#29742#29743#0" expanded="false" />
+            <element signature="e#29822#29823#0" expanded="false" />
+            <element signature="e#29887#29888#0" expanded="false" />
+            <element signature="e#29956#29957#0" expanded="false" />
+            <element signature="e#30021#30022#0" expanded="false" />
+            <element signature="e#30090#30091#0" expanded="false" />
+            <element signature="e#30155#30156#0" expanded="false" />
+            <element signature="e#30221#30222#0" expanded="false" />
+            <element signature="e#30286#30287#0" expanded="false" />
+            <element signature="e#30743#30744#0" expanded="false" />
+            <element signature="e#30775#30776#0" expanded="false" />
+            <element signature="e#30829#30830#0" expanded="false" />
+            <element signature="e#30865#30866#0" expanded="false" />
+            <element signature="e#30928#30929#0" expanded="false" />
+            <element signature="e#30976#30977#0" expanded="false" />
+            <element signature="e#31813#31814#0" expanded="false" />
+            <element signature="e#31866#31867#0" expanded="false" />
+            <element signature="e#31913#31914#0" expanded="false" />
+            <element signature="e#31962#31963#0" expanded="false" />
+            <element signature="e#32028#32029#0" expanded="false" />
+            <element signature="e#32093#32094#0" expanded="false" />
+            <element signature="e#32159#32160#0" expanded="false" />
+            <element signature="e#32224#32225#0" expanded="false" />
+            <element signature="e#32304#32305#0" expanded="false" />
+            <element signature="e#32369#32370#0" expanded="false" />
+            <element signature="e#32438#32439#0" expanded="false" />
+            <element signature="e#32503#32504#0" expanded="false" />
+            <element signature="e#32572#32573#0" expanded="false" />
+            <element signature="e#32637#32638#0" expanded="false" />
+            <element signature="e#32703#32704#0" expanded="false" />
+            <element signature="e#32768#32769#0" expanded="false" />
+            <element signature="e#33582#33583#0" expanded="false" />
+            <element signature="e#33635#33636#0" expanded="false" />
+            <element signature="e#36418#36419#0" expanded="false" />
+            <element signature="e#36475#36476#0" expanded="false" />
+            <element signature="e#38143#38144#0" expanded="false" />
+            <element signature="e#38190#38191#0" expanded="false" />
+            <element signature="e#41256#41257#0" expanded="false" />
+            <element signature="e#41298#41299#0" expanded="false" />
+            <element signature="e#41352#41353#0" expanded="false" />
+            <element signature="e#41397#41398#0" expanded="false" />
+            <element signature="e#41460#41461#0" expanded="false" />
+            <element signature="e#41507#41508#0" expanded="false" />
+            <element signature="e#41562#41563#0" expanded="false" />
+            <element signature="e#41607#41608#0" expanded="false" />
+            <element signature="e#41666#41667#0" expanded="false" />
+            <element signature="e#41712#41713#0" expanded="false" />
+            <element signature="e#41766#41767#0" expanded="false" />
+            <element signature="e#41812#41813#0" expanded="false" />
+            <element signature="e#41873#41874#0" expanded="false" />
+            <element signature="e#41918#41919#0" expanded="false" />
+            <element signature="e#41994#41995#0" expanded="false" />
+            <element signature="e#42047#42048#0" expanded="false" />
+            <element signature="e#42121#42122#0" expanded="false" />
+            <element signature="e#42172#42173#0" expanded="false" />
+            <element signature="e#42246#42247#0" expanded="false" />
+            <element signature="e#42297#42298#0" expanded="false" />
+            <element signature="e#42366#42367#0" expanded="false" />
+            <element signature="e#42421#42422#0" expanded="false" />
+            <element signature="e#42490#42491#0" expanded="false" />
+            <element signature="e#42545#42546#0" expanded="false" />
+            <element signature="e#42611#42612#0" expanded="false" />
+            <element signature="e#42656#42657#0" expanded="false" />
+            <element signature="e#42705#42706#0" expanded="false" />
+            <element signature="e#42741#42742#0" expanded="false" />
+            <element signature="e#42802#42803#0" expanded="false" />
+            <element signature="e#42860#42861#0" expanded="false" />
+            <element signature="e#42911#42912#0" expanded="false" />
+            <element signature="e#42957#42958#0" expanded="false" />
+            <element signature="e#43010#43011#0" expanded="false" />
+            <element signature="e#43056#43057#0" expanded="false" />
+            <element signature="e#43112#43113#0" expanded="false" />
+            <element signature="e#43161#43162#0" expanded="false" />
+            <element signature="e#43219#43220#0" expanded="false" />
+            <element signature="e#43265#43266#0" expanded="false" />
+            <element signature="e#43327#43328#0" expanded="false" />
+            <element signature="e#43377#43378#0" expanded="false" />
+            <element signature="e#44566#44567#0" expanded="false" />
+            <element signature="e#44612#44613#0" expanded="false" />
+            <element signature="e#44870#44871#0" expanded="false" />
+            <element signature="e#44928#44929#0" expanded="false" />
+            <element signature="e#44989#44990#0" expanded="false" />
+            <element signature="e#45044#45045#0" expanded="false" />
+            <element signature="e#45118#45119#0" expanded="false" />
+            <element signature="e#45180#45181#0" expanded="false" />
+            <element signature="e#45245#45246#0" expanded="false" />
+            <element signature="e#45304#45305#0" expanded="false" />
+            <element signature="e#45372#45373#0" expanded="false" />
+            <element signature="e#45432#45433#0" expanded="false" />
+            <element signature="e#45504#45505#0" expanded="false" />
+            <element signature="e#45568#45569#0" expanded="false" />
+            <element signature="e#45634#45635#0" expanded="false" />
+            <element signature="e#45684#45685#0" expanded="false" />
+            <element signature="e#46238#46239#0" expanded="false" />
+            <element signature="e#46297#46298#0" expanded="false" />
+            <element signature="e#46358#46359#0" expanded="false" />
+            <element signature="e#46414#46415#0" expanded="false" />
+            <element signature="e#46480#46481#0" expanded="false" />
+            <element signature="e#46531#46532#0" expanded="false" />
+            <element signature="e#48719#48720#0" expanded="false" />
+            <element signature="e#48751#48752#0" expanded="false" />
+            <element signature="e#48805#48806#0" expanded="false" />
+            <element signature="e#48840#48841#0" expanded="false" />
+            <element signature="e#48905#48906#0" expanded="false" />
+            <element signature="e#48941#48942#0" expanded="false" />
+            <element signature="e#49014#49015#0" expanded="false" />
+            <element signature="e#49056#49057#0" expanded="false" />
+            <element signature="e#49111#49112#0" expanded="false" />
+            <element signature="e#49155#49156#0" expanded="false" />
+            <element signature="e#49470#49471#0" expanded="false" />
+            <element signature="e#49522#49523#0" expanded="false" />
+            <element signature="e#49588#49589#0" expanded="false" />
+            <element signature="e#49662#49663#0" expanded="false" />
+            <element signature="e#49728#49729#0" expanded="false" />
+            <element signature="e#49809#49810#0" expanded="false" />
+            <element signature="e#51010#51011#0" expanded="false" />
+            <element signature="e#51068#51069#0" expanded="false" />
+            <element signature="e#51129#51130#0" expanded="false" />
+            <element signature="e#51184#51185#0" expanded="false" />
+            <element signature="e#51250#51251#0" expanded="false" />
+            <element signature="e#51331#51332#0" expanded="false" />
+            <element signature="e#51403#51404#0" expanded="false" />
+            <element signature="e#51451#51452#0" expanded="false" />
+            <element signature="e#52308#52309#0" expanded="false" />
+            <element signature="e#52373#52374#0" expanded="false" />
+            <element signature="e#52434#52435#0" expanded="false" />
+            <element signature="e#52499#52500#0" expanded="false" />
+            <element signature="e#52577#52578#0" expanded="false" />
+            <element signature="e#52642#52643#0" expanded="false" />
+            <element signature="e#52713#52714#0" expanded="false" />
+            <element signature="e#52778#52779#0" expanded="false" />
+            <element signature="e#52849#52850#0" expanded="false" />
+            <element signature="e#52914#52915#0" expanded="false" />
+            <element signature="e#52963#52964#0" expanded="false" />
+            <element signature="e#53028#53029#0" expanded="false" />
+            <element signature="e#53337#53338#0" expanded="false" />
+            <element signature="e#53384#53385#0" expanded="false" />
+            <element signature="e#53915#53916#0" expanded="false" />
+            <element signature="e#53967#53968#0" expanded="false" />
+            <element signature="e#56594#56595#0" expanded="false" />
+            <element signature="e#56641#56642#0" expanded="false" />
+            <element signature="e#59612#59613#0" expanded="false" />
+            <element signature="e#59660#59661#0" expanded="false" />
+            <element signature="e#59714#59715#0" expanded="false" />
+            <element signature="e#59765#59766#0" expanded="false" />
+            <element signature="e#59828#59829#0" expanded="false" />
+            <element signature="e#59881#59882#0" expanded="false" />
+            <element signature="e#59936#59937#0" expanded="false" />
+            <element signature="e#59987#59988#0" expanded="false" />
+            <element signature="e#60046#60047#0" expanded="false" />
+            <element signature="e#60098#60099#0" expanded="false" />
+            <element signature="e#60286#60287#0" expanded="false" />
+            <element signature="e#60337#60338#0" expanded="false" />
+            <element signature="e#60410#60411#0" expanded="false" />
+            <element signature="e#60466#60467#0" expanded="false" />
+            <element signature="e#60938#60939#0" expanded="false" />
+            <element signature="e#60992#60993#0" expanded="false" />
+            <element signature="e#61063#61064#0" expanded="false" />
+            <element signature="e#61117#61118#0" expanded="false" />
+            <element signature="e#61166#61167#0" expanded="false" />
+            <element signature="e#61208#61209#0" expanded="false" />
+            <element signature="e#61269#61270#0" expanded="false" />
+            <element signature="e#61333#61334#0" expanded="false" />
+            <element signature="e#61384#61385#0" expanded="false" />
+            <element signature="e#61436#61437#0" expanded="false" />
+            <element signature="e#61662#61663#0" expanded="false" />
+            <element signature="e#61721#61722#0" expanded="false" />
+            <element signature="e#61782#61783#0" expanded="false" />
+            <element signature="e#61838#61839#0" expanded="false" />
+            <element signature="e#61904#61905#0" expanded="false" />
+            <element signature="e#61955#61956#0" expanded="false" />
+            <element signature="e#62613#62614#0" expanded="false" />
+            <element signature="e#62645#62646#0" expanded="false" />
+            <element signature="e#62699#62700#0" expanded="false" />
+            <element signature="e#62734#62735#0" expanded="false" />
+            <element signature="e#62802#62803#0" expanded="false" />
+            <element signature="e#62838#62839#0" expanded="false" />
+            <element signature="e#62910#62911#0" expanded="false" />
+            <element signature="e#62946#62947#0" expanded="false" />
+            <element signature="e#63000#63001#0" expanded="false" />
+            <element signature="e#63035#63036#0" expanded="false" />
+            <element signature="e#63087#63088#0" expanded="false" />
+            <element signature="e#63138#63139#0" expanded="false" />
+            <element signature="e#63197#63198#0" expanded="false" />
+            <element signature="e#63248#63249#0" expanded="false" />
+            <element signature="e#63315#63316#0" expanded="false" />
+            <element signature="e#63366#63367#0" expanded="false" />
+            <element signature="e#63427#63428#0" expanded="false" />
+            <element signature="e#63503#63504#0" expanded="false" />
+            <element signature="e#63554#63555#0" expanded="false" />
+            <element signature="e#63586#63587#0" expanded="false" />
+            <element signature="e#65937#65938#0" expanded="false" />
+            <element signature="e#65985#65986#0" expanded="false" />
+            <element signature="e#66039#66040#0" expanded="false" />
+            <element signature="e#66090#66091#0" expanded="false" />
+            <element signature="e#66158#66159#0" expanded="false" />
+            <element signature="e#66216#66217#0" expanded="false" />
+            <element signature="e#66288#66289#0" expanded="false" />
+            <element signature="e#66350#66351#0" expanded="false" />
+            <element signature="e#66404#66405#0" expanded="false" />
+            <element signature="e#66454#66455#0" expanded="false" />
+            <element signature="e#66661#66662#0" expanded="false" />
+            <element signature="e#66714#66715#0" expanded="false" />
+            <element signature="e#67186#67202#0" expanded="false" />
+            <element signature="e#67708#67709#0" expanded="false" />
+            <element signature="e#67750#67751#0" expanded="false" />
+            <element signature="e#67802#67803#0" expanded="false" />
+            <element signature="e#67852#67853#0" expanded="false" />
+            <element signature="e#67911#67912#0" expanded="false" />
+            <element signature="e#67961#67962#0" expanded="false" />
+            <element signature="e#68295#68296#0" expanded="false" />
+            <element signature="e#68359#68360#0" expanded="false" />
+            <element signature="e#68410#68411#0" expanded="false" />
+            <element signature="e#68462#68463#0" expanded="false" />
+            <element signature="e#68849#68850#0" expanded="false" />
+            <element signature="e#68896#68897#0" expanded="false" />
+            <element signature="e#68958#68959#0" expanded="false" />
+            <element signature="e#69008#69009#0" expanded="false" />
+            <element signature="e#69070#69071#0" expanded="false" />
+            <element signature="e#69121#69122#0" expanded="false" />
+            <element signature="e#69180#69181#0" expanded="false" />
+            <element signature="e#69231#69232#0" expanded="false" />
+            <element signature="e#69288#69289#0" expanded="false" />
+            <element signature="e#69329#69330#0" expanded="false" />
+            <element signature="e#69404#69405#0" expanded="false" />
+            <element signature="e#69477#69478#0" expanded="false" />
+            <element signature="e#69992#69993#0" expanded="false" />
+            <element signature="e#70058#70059#0" expanded="false" />
+            <element signature="e#70132#70133#0" expanded="false" />
+            <element signature="e#70190#70191#0" expanded="false" />
+            <element signature="e#70272#70273#0" expanded="false" />
+            <element signature="e#70360#70361#0" expanded="false" />
+            <element signature="e#73521#73522#0" expanded="false" />
+            <element signature="e#73581#73582#0" expanded="false" />
+            <element signature="e#73660#73661#0" expanded="false" />
+            <element signature="e#73719#73720#0" expanded="false" />
+            <element signature="e#75598#75599#0" expanded="false" />
+            <element signature="e#75655#75656#0" expanded="false" />
+            <element signature="e#75720#75721#0" expanded="false" />
+            <element signature="e#75779#75780#0" expanded="false" />
+            <element signature="e#75846#75847#0" expanded="false" />
+            <element signature="e#75905#75906#0" expanded="false" />
+            <element signature="e#75975#75976#0" expanded="false" />
+            <element signature="e#76034#76035#0" expanded="false" />
+            <element signature="e#77281#77282#0" expanded="false" />
+            <element signature="e#77328#77329#0" expanded="false" />
+            <element signature="e#80554#80555#0" expanded="false" />
+            <element signature="e#80599#80600#0" expanded="false" />
+            <element signature="e#81154#81155#0" expanded="false" />
+            <element signature="e#81213#81214#0" expanded="false" />
+            <element signature="e#83539#83540#0" expanded="false" />
+            <element signature="e#83586#83587#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/scene/control/ListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7176">
+          <caret line="388" column="22" lean-forward="false" selection-start-line="388" selection-start-column="22" selection-end-line="388" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/scene/control/TableSelectionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/scene/control/TableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10833">
+          <caret line="550" column="51" lean-forward="false" selection-start-line="550" selection-start-column="51" selection-end-line="550" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#148829#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#18294#18295#0" expanded="false" />
+            <element signature="e#18347#18348#0" expanded="false" />
+            <element signature="e#19490#19491#0" expanded="false" />
+            <element signature="e#19541#19542#0" expanded="false" />
+            <element signature="e#20697#23853#0" expanded="false" />
+            <element signature="e#23852#23853#0" expanded="false" />
+            <element signature="e#24505#24506#0" expanded="false" />
+            <element signature="e#24565#24566#0" expanded="false" />
+            <element signature="e#26264#26744#0" expanded="false" />
+            <element signature="e#26743#26744#0" expanded="false" />
+            <element signature="e#29006#36637#0" expanded="false" />
+            <element signature="e#36636#36637#0" expanded="false" />
+            <element signature="e#38810#38828#0" expanded="false" />
+            <element signature="e#41370#41371#0" expanded="false" />
+            <element signature="e#41429#41430#0" expanded="false" />
+            <element signature="e#44758#44759#0" expanded="false" />
+            <element signature="e#44805#44806#0" expanded="false" />
+            <element signature="e#45646#45647#0" expanded="false" />
+            <element signature="e#45694#45695#0" expanded="false" />
+            <element signature="e#45735#45736#0" expanded="false" />
+            <element signature="e#45804#45805#0" expanded="false" />
+            <element signature="e#47116#47117#0" expanded="false" />
+            <element signature="e#47153#47154#0" expanded="false" />
+            <element signature="e#47229#47230#0" expanded="false" />
+            <element signature="e#47280#47281#0" expanded="false" />
+            <element signature="e#47347#47348#0" expanded="false" />
+            <element signature="e#47390#47391#0" expanded="false" />
+            <element signature="e#47550#47551#0" expanded="false" />
+            <element signature="e#47597#47598#0" expanded="false" />
+            <element signature="e#47655#47656#0" expanded="false" />
+            <element signature="e#47722#47723#0" expanded="false" />
+            <element signature="e#49193#49194#0" expanded="false" />
+            <element signature="e#49238#49239#0" expanded="false" />
+            <element signature="e#49278#49279#0" expanded="false" />
+            <element signature="e#49342#49343#0" expanded="false" />
+            <element signature="e#50361#50362#0" expanded="false" />
+            <element signature="e#50411#50412#0" expanded="false" />
+            <element signature="e#52641#52642#0" expanded="false" />
+            <element signature="e#52702#52703#0" expanded="false" />
+            <element signature="e#52755#52756#0" expanded="false" />
+            <element signature="e#52817#52818#0" expanded="false" />
+            <element signature="e#53031#53032#0" expanded="false" />
+            <element signature="e#53083#53084#0" expanded="false" />
+            <element signature="e#53138#53139#0" expanded="false" />
+            <element signature="e#53207#53208#0" expanded="false" />
+            <element signature="e#54267#54268#0" expanded="false" />
+            <element signature="e#54318#54319#0" expanded="false" />
+            <element signature="e#54367#54368#0" expanded="false" />
+            <element signature="e#54434#54435#0" expanded="false" />
+            <element signature="e#55733#55734#0" expanded="false" />
+            <element signature="e#55783#55784#0" expanded="false" />
+            <element signature="e#56447#56448#0" expanded="false" />
+            <element signature="e#56493#56494#0" expanded="false" />
+            <element signature="e#56826#56827#0" expanded="false" />
+            <element signature="e#56869#56870#0" expanded="false" />
+            <element signature="e#57621#57622#0" expanded="false" />
+            <element signature="e#57682#57683#0" expanded="false" />
+            <element signature="e#57735#57736#0" expanded="false" />
+            <element signature="e#57790#57791#0" expanded="false" />
+            <element signature="e#58650#58651#0" expanded="false" />
+            <element signature="e#58680#58681#0" expanded="false" />
+            <element signature="e#59780#59781#0" expanded="false" />
+            <element signature="e#59812#59813#0" expanded="false" />
+            <element signature="e#60033#60034#0" expanded="false" />
+            <element signature="e#60087#60088#0" expanded="false" />
+            <element signature="e#60866#60867#0" expanded="false" />
+            <element signature="e#60913#60914#0" expanded="false" />
+            <element signature="e#61383#61384#0" expanded="false" />
+            <element signature="e#61479#61480#0" expanded="false" />
+            <element signature="e#61547#61548#0" expanded="false" />
+            <element signature="e#61608#61609#0" expanded="false" />
+            <element signature="e#61677#61678#0" expanded="false" />
+            <element signature="e#61736#61737#0" expanded="false" />
+            <element signature="e#62053#62054#0" expanded="false" />
+            <element signature="e#62110#62111#0" expanded="false" />
+            <element signature="e#63714#63715#0" expanded="false" />
+            <element signature="e#63775#63776#0" expanded="false" />
+            <element signature="e#63828#63829#0" expanded="false" />
+            <element signature="e#63893#63894#0" expanded="false" />
+            <element signature="e#65353#65354#0" expanded="false" />
+            <element signature="e#65406#65407#0" expanded="false" />
+            <element signature="e#65590#65591#0" expanded="false" />
+            <element signature="e#65647#65648#0" expanded="false" />
+            <element signature="e#66045#66046#0" expanded="false" />
+            <element signature="e#66094#66095#0" expanded="false" />
+            <element signature="e#70790#70791#0" expanded="false" />
+            <element signature="e#70867#70868#0" expanded="false" />
+            <element signature="e#72723#72741#0" expanded="false" />
+            <element signature="e#74967#74968#0" expanded="false" />
+            <element signature="e#75045#75046#0" expanded="false" />
+            <element signature="e#75667#75704#0" expanded="false" />
+            <element signature="e#76320#76321#0" expanded="false" />
+            <element signature="e#76364#76365#0" expanded="false" />
+            <element signature="e#80604#80605#0" expanded="false" />
+            <element signature="e#80673#80674#0" expanded="false" />
+            <element signature="e#80826#80827#0" expanded="false" />
+            <element signature="e#80864#80865#0" expanded="false" />
+            <element signature="e#84734#84735#0" expanded="false" />
+            <element signature="e#84795#84796#0" expanded="false" />
+            <element signature="e#87132#87133#0" expanded="false" />
+            <element signature="e#87172#87173#0" expanded="false" />
+            <element signature="e#87372#87373#0" expanded="false" />
+            <element signature="e#87423#87424#0" expanded="false" />
+            <element signature="e#87717#87718#0" expanded="false" />
+            <element signature="e#87770#87771#0" expanded="false" />
+            <element signature="e#87847#87848#0" expanded="false" />
+            <element signature="e#87887#87888#0" expanded="false" />
+            <element signature="e#87966#87967#0" expanded="false" />
+            <element signature="e#88022#88023#0" expanded="false" />
+            <element signature="e#91210#91211#0" expanded="false" />
+            <element signature="e#91298#91299#0" expanded="false" />
+            <element signature="e#91345#91346#0" expanded="false" />
+            <element signature="e#91419#91420#0" expanded="false" />
+            <element signature="e#91602#91603#0" expanded="false" />
+            <element signature="e#91672#91673#0" expanded="false" />
+            <element signature="e#91719#91720#0" expanded="false" />
+            <element signature="e#91789#91790#0" expanded="false" />
+            <element signature="e#95547#95548#0" expanded="false" />
+            <element signature="e#95591#95592#0" expanded="false" />
+            <element signature="e#103513#103514#0" expanded="false" />
+            <element signature="e#103562#103563#0" expanded="false" />
+            <element signature="e#107218#107219#0" expanded="false" />
+            <element signature="e#107259#107260#0" expanded="false" />
+            <element signature="e#118618#118619#0" expanded="false" />
+            <element signature="e#118669#118670#0" expanded="false" />
+            <element signature="e#120193#120194#0" expanded="false" />
+            <element signature="e#120263#120264#0" expanded="false" />
+            <element signature="e#120592#120593#0" expanded="false" />
+            <element signature="e#120646#120647#0" expanded="false" />
+            <element signature="e#121291#121292#0" expanded="false" />
+            <element signature="e#121348#121349#0" expanded="false" />
+            <element signature="e#127715#127716#0" expanded="false" />
+            <element signature="e#127786#127787#0" expanded="false" />
+            <element signature="e#128414#128415#0" expanded="false" />
+            <element signature="e#128454#128455#0" expanded="false" />
+            <element signature="e#141619#141620#0" expanded="false" />
+            <element signature="e#141698#141699#0" expanded="false" />
+            <element signature="e#141775#141776#0" expanded="false" />
+            <element signature="e#141843#141844#0" expanded="false" />
+            <element signature="e#148371#148372#0" expanded="false" />
+            <element signature="e#148442#148443#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/RegexMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="91" lean-forward="false" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/ENV.java" />
+    <entry file="file://$PROJECT_DIR$/src/common/Named.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/LogAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/SplitByThreadInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/SplitByTimeInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/NumInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/impl/RegularInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="983">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/Configurable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/ConfigurableBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor/LogAnalysisInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/impl/NIOLogReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/impl/OIOLogReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/impl/OIOLogWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/LogReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/LogWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WcgLogAnaylysis.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/IOHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/sample.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sample.Main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">javafx.application.Application</node>
+            <node x="18.0" y="80.0">sample.Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="sample.Main" target="javafx.application.Application">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-336.0" y="89.0" />
+          <SelectedNodes>
+            <node>sample.Main</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#908#909#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="159" column="34" lean-forward="false" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/jsp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>WcgLogAnaylysis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WcgLogAnaylysis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

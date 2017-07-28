@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WcgLogAnaylysis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WcgLogAnaylysis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WcgLogAnaylysis" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
