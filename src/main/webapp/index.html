@@ -1,0 +1,109 @@
+
+
+<html>
+  <head>
+    <base href="<%=basePath%>" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"  href="css/bootstrap.min.css"/>
+    <script src="js/angular/angular.min.js"></script>
+    <link rel="stylesheet/less" type="text/css" href="css/table.less"/>
+    <link rel="stylesheet/less" type="text/css" href="css/app.less"/>
+    <title>Wcg日志分析</title>
+
+  </head>
+  <body >
+
+  <div class="app">
+  <div class="container-fluid" ng-app="logApp" ng-controller="searchCtrl">
+    <div class="row-fluid">
+      <div class="col-md-4">
+
+        <div align="center">
+          <h3>
+            Wcg日志分析工具
+          </h3>
+
+          <div class="control-group" style="margin-bottom: 10px">
+            <div class="col-md-2">
+            <label class="control-label" for="inputKey">关键字</label>
+            </div>
+            <div class="controls">
+              <input id="inputKey" ng-model="inputKey" type="text"  placeholder="请输入关键字" style="width:50%"/>
+            </div>
+          </div>
+          <div class="control-group" style="margin-bottom: 10px">
+            <div class="col-md-2">
+            <label class="control-label" for="inputDate"  >日期</label>
+            </div>
+            <div class="controls">
+              <input id="inputDate" type="text" ng-model="inputDate" placeholder="输入日期格式为2017-06-26 10:18:32(可不全)" style="width:50%"/>
+            </div>
+          </div>
+          <div class="control-group" style="margin-bottom: 10px">
+            <div class="col-md-2">
+            <label class="control-label" for="inputSeq" >序列号</label>
+            </div>
+            <div class="controls">
+              <input id="inputSeq" type="text" ng-model="inputSeq" placeholder="输入六位序列号" style="width:50%"/>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="controls">
+
+              <button type="submit" class="btn-primary" ng-click="search()">搜索</button>
+            </div>
+          </div>
+        </div>
+        <div class="tcontainer" >
+        <table class="table"  >
+          <thead>
+          <tr class="table-row">
+            <th>
+              序列号
+            </th>
+            <th>
+              日期
+            </th>
+          </tr>
+          </thead>
+          <tbody style="overflow: scroll">
+          <tr class="table-row" ng-repeat="log in logs" ng-click="searchSeq(log.seq)" >
+          <td >
+            {{log.seq}}
+          </td>
+            <td>
+              {{log.date}}
+            </td>
+          </tr>
+
+          </tbody>
+        </table>
+
+        </div>
+        </div>
+      </div>
+     <div class="col-md-8">
+
+        <h3 style="margin-bottom: 10px">
+          {{thislog.fileName}}
+        </h3>
+
+        <p style="height:90%;width:100%;overflow-y: scroll;overflow-x:hidden;background-color:white " ng-bind-html="logcontent | getKey:inputKey" >
+
+        </p>
+
+     </div>
+    </div>
+  </div>
+  </div>
+  </body>
+
+
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/searchcontrol.js"></script>
+  <script src="js/less/less.min.js"></script>
+  <script src="js/jquery-3.2.1.js"></script>
+
+</html>

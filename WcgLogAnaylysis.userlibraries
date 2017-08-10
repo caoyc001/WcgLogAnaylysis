@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eclipse-userlibraries />
+<eclipse-userlibraries>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/Administrator/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/Users/Administrator/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.2">
+    <archive path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-log4j12/1.7.2/slf4j-log4j12-1.7.2.jar" />
+  </library>
+</eclipse-userlibraries>
 
