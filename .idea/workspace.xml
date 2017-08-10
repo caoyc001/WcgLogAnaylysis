@@ -1,103 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/java/FindA.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/app.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/logsearch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis/WcgLogAnaylysis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis/WcgLogAnaylysis.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis/WcgLogAnaylysis.jnlp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/WcgLogAnaylysis/archive.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/Test/RegexMatches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/common/IOHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/common/Named.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/core/Log.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/core/LogAnalysis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/interceptor/Configurable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/interceptor/ConfigurableBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/interceptor/LogAnalysisInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/interceptor/impl/NumInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/interceptor/impl/RegularInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/LogReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/LogWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/impl/NIOLogReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/impl/NIOLogWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/impl/OIOLogReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/io/impl/OIOLogWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/sample/Controller$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/sample/Controller$Log.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/sample/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/sample/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WcgLogAnaylysis/sample/sample.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/Test/RegexMatches.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/common/IOHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/common/Named.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/core/Log.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/core/LogAnalysis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/interceptor/Configurable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/interceptor/ConfigurableBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/interceptor/LogAnalysisInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/interceptor/impl/NumInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/interceptor/impl/RegularInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/LogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/LogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/impl/NIOLogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/impl/NIOLogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/impl/OIOLogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/io/impl/OIOLogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/sample/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/sample/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/sample/sample.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out1/test.jnlp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Test/RegexMatches.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/common/IOHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/common/Named.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/Log.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/LogAnalysis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interceptor/Configurable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interceptor/ConfigurableBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interceptor/LogAnalysisInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interceptor/impl/NumInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interceptor/impl/RegularInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/LogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/LogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/impl/NIOLogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/impl/NIOLogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/impl/OIOLogReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/io/impl/OIOLogWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/sample.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/WcgLogAnaylysis_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WcgLogAnaylysis.eml" afterPath="$PROJECT_DIR$/WcgLogAnaylysis.eml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WcgLogAnaylysis.iml" afterPath="$PROJECT_DIR$/WcgLogAnaylysis.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WcgLogAnaylysis.userlibraries" afterPath="$PROJECT_DIR$/WcgLogAnaylysis.userlibraries" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1651,12 +1555,12 @@
       <workItem from="1502153579005" duration="17124000" />
       <workItem from="1502240873183" duration="8076000" />
       <workItem from="1502258632704" duration="3632000" />
-      <workItem from="1502326414739" duration="1620000" />
+      <workItem from="1502326414739" duration="1625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273702000" />
+    <option name="totallyTimeSpent" value="273707000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1668,7 +1572,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1604" height="876" extended-state="0" />
+    <frame x="-8" y="0" width="1604" height="876" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
