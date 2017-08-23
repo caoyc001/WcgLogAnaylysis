@@ -22,5 +22,12 @@
         <servlet-name>LogServlet</servlet-name>
         <url-pattern>/log</url-pattern>
     </servlet-mapping>
-
+    <servlet>
+        <servlet-name>PerServlet</servlet-name>
+        <servlet-class>wla.PerServlet</servlet-class>
+        </servlet>
+    <servlet-mapping>
+        <servlet-name>PerServlet</servlet-name>
+        <url-pattern>/per</url-pattern>
+    </servlet-mapping>
 </web-app>
