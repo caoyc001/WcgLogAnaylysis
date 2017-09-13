@@ -3,8 +3,21 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
+    <!-- 配置过滤器 尽可能把过滤器配置到web.xml最上面 -->
+    <filter>
+        <filter-name>FilterIP</filter-name>
+        <filter-class>wla.FIlterIp</filter-class>
+        <init-param>
+            <param-name>FilteredIP</param-name>
+            <param-value>127.0.0.1</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>FilterIP</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
+        <welcome-file>login.html</welcome-file>
     </welcome-file-list>
     <servlet>
         <servlet-name>SearchServlet</servlet-name>
@@ -30,4 +43,13 @@
         <servlet-name>PerServlet</servlet-name>
         <url-pattern>/per</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>wla.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+
 </web-app>
