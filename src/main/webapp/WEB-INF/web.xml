@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
     <!-- 配置过滤器 尽可能把过滤器配置到web.xml最上面 -->
+    
     <filter>
         <filter-name>FilterIP</filter-name>
         <filter-class>wla.FIlterIp</filter-class>
@@ -51,5 +52,6 @@
         <servlet-name>LoginServlet</servlet-name>
         <url-pattern>/login</url-pattern>
     </servlet-mapping>
+  
 
 </web-app>
