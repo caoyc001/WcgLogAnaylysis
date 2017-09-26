@@ -1,0 +1,11 @@
+/target
+/.idea
+/.settings
+/build
+.classpath
+.myumldata
+.project
+build.xml
+WcgLogAnaylysis.eml
+WcgLogAnaylysis.iml
+WcgLogAnaylysis.userlibraries

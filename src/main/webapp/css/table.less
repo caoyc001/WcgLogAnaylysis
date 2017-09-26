@@ -1,0 +1,46 @@
+.table {
+
+  text-align: center;
+  font-size: 12px;
+  margin-top: 10px;
+
+  .table-row {
+    cursor: pointer;
+    &.selected {
+      background-color: rgba(51, 153, 204, 0.25);
+    }
+    &:hover {
+      background-color: rgba(51, 153, 204, 0.25);
+    }
+  }
+  thead {
+    border-top: 1px solid #ddd;
+  }
+  tbody {
+    tr:nth-of-type(even) {
+      background-color: #ECECEC;
+    }
+    tr:nth-of-type(odd) {
+      background-color: white;
+    }
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+  tr {
+    td {
+      border-top: none;
+    }
+  }
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
